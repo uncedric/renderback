@@ -1,0 +1,36 @@
+{
+  "name": "renderback",
+  "version": "0.0.2",
+  "description": "Server side rendering for single page apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uncedric/renderback.git"
+  },
+  "keywords": [
+    "render",
+    "server",
+    "express",
+    "angular",
+    "angularjs",
+    "server",
+    "side",
+    "zombie",
+    "browser",
+    "single",
+    "page",
+    "apps"
+  ],
+  "author": "uncedric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uncedric/renderback/issues"
+  },
+  "homepage": "https://github.com/uncedric/renderback#readme",
+  "dependencies": {
+    "zombie": "^4.2.1"
+  }
+}
